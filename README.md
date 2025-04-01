@@ -1,0 +1,2 @@
+# pb-info
+rezolvari pbinfo
